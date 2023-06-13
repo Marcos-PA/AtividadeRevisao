@@ -1,0 +1,1625 @@
+=====================
+Pedido nº 81 - 01/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 5 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 7 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho médio com 6 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Pizza com queijo e calabresa tamanho pequeno com 1 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+05 - Pizza com queijo e calabresa tamanho pequeno com 2 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+
+VALOR DOS ITENS:	 R$ 121,50
+VALOR DA TAXA:  	 R$ 12,15
+TOTAL DO PEDIDO:	 R$ 133,65
+=====================
+
+=====================
+Pedido nº 64 - 02/01/2023
+01 - Pizza com queijo e calabresa tamanho pequeno com 5 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+02 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+03 - Sanduíche  com 4 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 51,00
+VALOR DA TAXA:  	 R$ 5,10
+TOTAL DO PEDIDO:	 R$ 56,10
+=====================
+
+=====================
+Pedido nº 2 - 04/01/2023
+01 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 16,00
+VALOR DA TAXA:  	 R$ 1,60
+TOTAL DO PEDIDO:	 R$ 17,60
+=====================
+
+=====================
+Pedido nº 60 - 04/01/2023
+01 - Pizza com queijo e calabresa tamanho médio com 5 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 38,00
+VALOR DA TAXA:  	 R$ 3,80
+TOTAL DO PEDIDO:	 R$ 41,80
+=====================
+
+=====================
+Pedido nº 93 - 04/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 0 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 6 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Sanduíche  com 4 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 65,50
+VALOR DA TAXA:  	 R$ 6,55
+TOTAL DO PEDIDO:	 R$ 72,05
+=====================
+
+=====================
+Pedido nº 34 - 06/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 3 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho grande com 6 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+03 - Pizza com queijo e calabresa tamanho médio com 0 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Sanduíche  com 4 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 96,00
+VALOR DA TAXA:  	 R$ 9,60
+TOTAL DO PEDIDO:	 R$ 105,60
+=====================
+
+=====================
+Pedido nº 30 - 07/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 0 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 1 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho médio com 6 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 93,50
+VALOR DA TAXA:  	 R$ 9,35
+TOTAL DO PEDIDO:	 R$ 102,85
+=====================
+
+=====================
+Pedido nº 47 - 08/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 2 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 5 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho médio com 4 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+05 - Sanduíche  com 4 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 106,50
+VALOR DA TAXA:  	 R$ 10,65
+TOTAL DO PEDIDO:	 R$ 117,15
+=====================
+
+=====================
+Pedido nº 85 - 08/01/2023
+01 - Pizza com queijo e calabresa tamanho médio com 5 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Pizza com queijo e calabresa tamanho médio com 3 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho pequeno com 1 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+04 - Sanduíche  com 1 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+05 - Sanduíche  com 0 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+06 - Sanduíche  com 1 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 114,00
+VALOR DA TAXA:  	 R$ 11,40
+TOTAL DO PEDIDO:	 R$ 125,40
+=====================
+
+=====================
+Pedido nº 31 - 11/01/2023
+01 - Pizza com queijo e calabresa tamanho médio com 6 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Pizza com queijo e calabresa tamanho médio com 5 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho pequeno com 2 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+04 - Pizza com queijo e calabresa tamanho pequeno com 4 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+05 - Pizza com queijo e calabresa tamanho pequeno com 3 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+06 - Pizza com queijo e calabresa tamanho pequeno com 2 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+
+VALOR DOS ITENS:	 R$ 138,00
+VALOR DA TAXA:  	 R$ 13,80
+TOTAL DO PEDIDO:	 R$ 151,80
+=====================
+
+=====================
+Pedido nº 56 - 11/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 5 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho pequeno com 5 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+03 - Pizza com queijo e calabresa tamanho pequeno com 0 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+04 - Pizza com queijo e calabresa tamanho pequeno com 5 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+
+VALOR DOS ITENS:	 R$ 93,50
+VALOR DA TAXA:  	 R$ 9,35
+TOTAL DO PEDIDO:	 R$ 102,85
+=====================
+
+=====================
+Pedido nº 14 - 13/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 1 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 2 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho pequeno com 2 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+
+VALOR DOS ITENS:	 R$ 74,50
+VALOR DA TAXA:  	 R$ 7,45
+TOTAL DO PEDIDO:	 R$ 81,95
+=====================
+
+=====================
+Pedido nº 37 - 13/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 0 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Sanduíche  com 0 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+03 - Sanduíche  com 3 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+04 - Sanduíche  com 1 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+05 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 85,50
+VALOR DA TAXA:  	 R$ 8,55
+TOTAL DO PEDIDO:	 R$ 94,05
+=====================
+
+=====================
+Pedido nº 38 - 14/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 3 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Sanduíche  com 1 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+03 - Sanduíche  com 3 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 56,50
+VALOR DA TAXA:  	 R$ 5,65
+TOTAL DO PEDIDO:	 R$ 62,15
+=====================
+
+=====================
+Pedido nº 73 - 14/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 3 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho pequeno com 5 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+03 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+04 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 81,50
+VALOR DA TAXA:  	 R$ 8,15
+TOTAL DO PEDIDO:	 R$ 89,65
+=====================
+
+=====================
+Pedido nº 75 - 14/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 7 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Sanduíche  com 0 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+03 - Sanduíche  com 4 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+04 - Sanduíche  com 3 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+05 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+06 - Sanduíche  com 0 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 101,50
+VALOR DA TAXA:  	 R$ 10,15
+TOTAL DO PEDIDO:	 R$ 111,65
+=====================
+
+=====================
+Pedido nº 65 - 15/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 0 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 3 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho pequeno com 0 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+
+VALOR DOS ITENS:	 R$ 74,50
+VALOR DA TAXA:  	 R$ 7,45
+TOTAL DO PEDIDO:	 R$ 81,95
+=====================
+
+=====================
+Pedido nº 69 - 16/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 7 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho pequeno com 1 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+03 - Sanduíche  com 0 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 62,50
+VALOR DA TAXA:  	 R$ 6,25
+TOTAL DO PEDIDO:	 R$ 68,75
+=====================
+
+=====================
+Pedido nº 94 - 16/01/2023
+01 - Pizza com queijo e calabresa tamanho médio com 4 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Pizza com queijo e calabresa tamanho médio com 6 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho pequeno com 2 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+04 - Pizza com queijo e calabresa tamanho pequeno com 7 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+05 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 107,00
+VALOR DA TAXA:  	 R$ 10,70
+TOTAL DO PEDIDO:	 R$ 117,70
+=====================
+
+=====================
+Pedido nº 35 - 18/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 4 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 6 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho pequeno com 1 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+04 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+05 - Sanduíche  com 4 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 106,50
+VALOR DA TAXA:  	 R$ 10,65
+TOTAL DO PEDIDO:	 R$ 117,15
+=====================
+
+=====================
+Pedido nº 58 - 20/01/2023
+01 - Pizza com queijo e calabresa tamanho médio com 6 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Pizza com queijo e calabresa tamanho médio com 6 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+04 - Sanduíche  com 0 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+05 - Sanduíche  com 2 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 95,00
+VALOR DA TAXA:  	 R$ 9,50
+TOTAL DO PEDIDO:	 R$ 104,50
+=====================
+
+=====================
+Pedido nº 59 - 22/01/2023
+01 - Pizza com queijo e calabresa tamanho pequeno com 5 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+02 - Pizza com queijo e calabresa tamanho pequeno com 6 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+03 - Sanduíche  com 3 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 57,00
+VALOR DA TAXA:  	 R$ 5,70
+TOTAL DO PEDIDO:	 R$ 62,70
+=====================
+
+=====================
+Pedido nº 43 - 24/01/2023
+01 - Pizza com queijo e calabresa tamanho médio com 4 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Pizza com queijo e calabresa tamanho médio com 7 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho médio com 2 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Pizza com queijo e calabresa tamanho pequeno com 6 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+05 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 110,00
+VALOR DA TAXA:  	 R$ 11,00
+TOTAL DO PEDIDO:	 R$ 121,00
+=====================
+
+=====================
+Pedido nº 88 - 25/01/2023
+01 - Pizza com queijo e calabresa tamanho médio com 2 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Pizza com queijo e calabresa tamanho médio com 2 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Sanduíche  com 2 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+04 - Sanduíche  com 3 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 79,00
+VALOR DA TAXA:  	 R$ 7,90
+TOTAL DO PEDIDO:	 R$ 86,90
+=====================
+
+=====================
+Pedido nº 42 - 26/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 5 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho pequeno com 1 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+03 - Sanduíche  com 3 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 65,50
+VALOR DA TAXA:  	 R$ 6,55
+TOTAL DO PEDIDO:	 R$ 72,05
+=====================
+
+=====================
+Pedido nº 23 - 27/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 2 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 3 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho médio com 2 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Sanduíche  com 3 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+05 - Sanduíche  com 0 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 103,50
+VALOR DA TAXA:  	 R$ 10,35
+TOTAL DO PEDIDO:	 R$ 113,85
+=====================
+
+=====================
+Pedido nº 77 - 27/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 5 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho pequeno com 5 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+03 - Sanduíche  com 3 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 62,50
+VALOR DA TAXA:  	 R$ 6,25
+TOTAL DO PEDIDO:	 R$ 68,75
+=====================
+
+=====================
+Pedido nº 91 - 28/01/2023
+01 - Pizza com queijo e calabresa tamanho grande com 2 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 4 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho pequeno com 4 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+04 - Pizza com queijo e calabresa tamanho pequeno com 1 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+05 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 109,50
+VALOR DA TAXA:  	 R$ 10,95
+TOTAL DO PEDIDO:	 R$ 120,45
+=====================
+
+=====================
+Pedido nº 16 - 02/02/2023
+01 - Pizza com queijo e calabresa tamanho grande com 1 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho grande com 2 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+
+VALOR DOS ITENS:	 R$ 55,00
+VALOR DA TAXA:  	 R$ 5,50
+TOTAL DO PEDIDO:	 R$ 60,50
+=====================
+
+=====================
+Pedido nº 63 - 02/02/2023
+01 - Pizza com queijo e calabresa tamanho médio com 4 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Pizza com queijo e calabresa tamanho médio com 7 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho pequeno com 2 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+04 - Pizza com queijo e calabresa tamanho pequeno com 6 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+05 - Pizza com queijo e calabresa tamanho pequeno com 3 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+
+VALOR DOS ITENS:	 R$ 116,00
+VALOR DA TAXA:  	 R$ 11,60
+TOTAL DO PEDIDO:	 R$ 127,60
+=====================
+
+=====================
+Pedido nº 24 - 03/02/2023
+01 - Pizza com queijo e calabresa tamanho grande com 7 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 7 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho médio com 7 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Pizza com queijo e calabresa tamanho médio com 2 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+05 - Sanduíche  com 2 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+06 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 131,50
+VALOR DA TAXA:  	 R$ 13,15
+TOTAL DO PEDIDO:	 R$ 144,65
+=====================
+
+=====================
+Pedido nº 86 - 03/02/2023
+01 - Pizza com queijo e calabresa tamanho grande com 5 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho grande com 1 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+03 - Pizza com queijo e calabresa tamanho médio com 6 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Pizza com queijo e calabresa tamanho pequeno com 6 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+05 - Sanduíche  com 4 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+06 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 134,00
+VALOR DA TAXA:  	 R$ 13,40
+TOTAL DO PEDIDO:	 R$ 147,40
+=====================
+
+=====================
+Pedido nº 82 - 04/02/2023
+01 - Pizza com queijo e calabresa tamanho grande com 2 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 5 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho pequeno com 7 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+04 - Sanduíche  com 0 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+05 - Sanduíche  com 3 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 103,50
+VALOR DA TAXA:  	 R$ 10,35
+TOTAL DO PEDIDO:	 R$ 113,85
+=====================
+
+=====================
+Pedido nº 13 - 06/02/2023
+01 - Pizza com queijo e calabresa tamanho médio com 3 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Pizza com queijo e calabresa tamanho médio com 2 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho pequeno com 5 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+04 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+05 - Sanduíche  com 3 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+06 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 117,00
+VALOR DA TAXA:  	 R$ 11,70
+TOTAL DO PEDIDO:	 R$ 128,70
+=====================
+
+=====================
+Pedido nº 32 - 06/02/2023
+01 - Pizza com queijo e calabresa tamanho pequeno com 7 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+02 - Pizza com queijo e calabresa tamanho pequeno com 0 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+03 - Sanduíche  com 4 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+04 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 73,00
+VALOR DA TAXA:  	 R$ 7,30
+TOTAL DO PEDIDO:	 R$ 80,30
+=====================
+
+=====================
+Pedido nº 49 - 07/02/2023
+01 - Sanduíche  com 2 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+02 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+03 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 42,00
+VALOR DA TAXA:  	 R$ 4,20
+TOTAL DO PEDIDO:	 R$ 46,20
+=====================
+
+=====================
+Pedido nº 8 - 08/02/2023
+01 - Pizza com queijo e calabresa tamanho grande com 6 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho grande com 1 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+03 - Pizza com queijo e calabresa tamanho médio com 4 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Pizza com queijo e calabresa tamanho pequeno com 6 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+05 - Sanduíche  com 0 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 118,00
+VALOR DA TAXA:  	 R$ 11,80
+TOTAL DO PEDIDO:	 R$ 129,80
+=====================
+
+=====================
+Pedido nº 53 - 08/02/2023
+01 - Pizza com queijo e calabresa tamanho grande com 1 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho grande com 4 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+03 - Sanduíche  com 2 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+04 - Sanduíche  com 1 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 81,00
+VALOR DA TAXA:  	 R$ 8,10
+TOTAL DO PEDIDO:	 R$ 89,10
+=====================
+
+=====================
+Pedido nº 67 - 08/02/2023
+01 - Sanduíche  com 4 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+02 - Sanduíche  com 4 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 32,00
+VALOR DA TAXA:  	 R$ 3,20
+TOTAL DO PEDIDO:	 R$ 35,20
+=====================
+
+=====================
+Pedido nº 89 - 08/02/2023
+01 - Pizza com queijo e calabresa tamanho grande com 3 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Sanduíche  com 0 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 40,50
+VALOR DA TAXA:  	 R$ 4,05
+TOTAL DO PEDIDO:	 R$ 44,55
+=====================
+
+=====================
+Pedido nº 50 - 13/02/2023
+01 - Pizza com queijo e calabresa tamanho grande com 2 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 5 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho médio com 6 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Sanduíche  com 1 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+05 - Sanduíche  com 0 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+06 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 116,50
+VALOR DA TAXA:  	 R$ 11,65
+TOTAL DO PEDIDO:	 R$ 128,15
+=====================
+
+=====================
+Pedido nº 4 - 14/02/2023
+01 - Pizza com queijo e calabresa tamanho grande com 1 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho grande com 2 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+03 - Pizza com queijo e calabresa tamanho grande com 1 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+04 - Pizza com queijo e calabresa tamanho pequeno com 2 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+05 - Pizza com queijo e calabresa tamanho pequeno com 2 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+
+VALOR DOS ITENS:	 R$ 126,50
+VALOR DA TAXA:  	 R$ 12,65
+TOTAL DO PEDIDO:	 R$ 139,15
+=====================
+
+=====================
+Pedido nº 36 - 17/02/2023
+01 - Pizza com queijo e calabresa tamanho grande com 6 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 5 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho pequeno com 7 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+04 - Sanduíche  com 4 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+05 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+06 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 119,50
+VALOR DA TAXA:  	 R$ 11,95
+TOTAL DO PEDIDO:	 R$ 131,45
+=====================
+
+=====================
+Pedido nº 3 - 18/02/2023
+01 - Pizza com queijo e calabresa tamanho médio com 3 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Sanduíche  com 3 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+03 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 57,00
+VALOR DA TAXA:  	 R$ 5,70
+TOTAL DO PEDIDO:	 R$ 62,70
+=====================
+
+=====================
+Pedido nº 1 - 20/02/2023
+01 - Pizza com queijo e calabresa tamanho grande com 2 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho grande com 2 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+03 - Pizza com queijo e calabresa tamanho grande com 3 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+
+VALOR DOS ITENS:	 R$ 82,50
+VALOR DA TAXA:  	 R$ 8,25
+TOTAL DO PEDIDO:	 R$ 90,75
+=====================
+
+=====================
+Pedido nº 10 - 23/02/2023
+01 - Pizza com queijo e calabresa tamanho médio com 5 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Pizza com queijo e calabresa tamanho pequeno com 7 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+03 - Pizza com queijo e calabresa tamanho pequeno com 4 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+04 - Sanduíche  com 3 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+05 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+06 - Sanduíche  com 0 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 117,00
+VALOR DA TAXA:  	 R$ 11,70
+TOTAL DO PEDIDO:	 R$ 128,70
+=====================
+
+=====================
+Pedido nº 76 - 23/02/2023
+01 - Pizza com queijo e calabresa tamanho pequeno com 7 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+
+VALOR DOS ITENS:	 R$ 22,00
+VALOR DA TAXA:  	 R$ 2,20
+TOTAL DO PEDIDO:	 R$ 24,20
+=====================
+
+=====================
+Pedido nº 46 - 24/02/2023
+01 - Pizza com queijo e calabresa tamanho grande com 4 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho grande com 4 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+03 - Pizza com queijo e calabresa tamanho grande com 5 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+04 - Pizza com queijo e calabresa tamanho pequeno com 3 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+05 - Sanduíche  com 1 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+06 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 136,50
+VALOR DA TAXA:  	 R$ 13,65
+TOTAL DO PEDIDO:	 R$ 150,15
+=====================
+
+=====================
+Pedido nº 28 - 28/02/2023
+01 - Pizza com queijo e calabresa tamanho médio com 2 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Pizza com queijo e calabresa tamanho pequeno com 3 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+03 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+04 - Sanduíche  com 4 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+05 - Sanduíche  com 3 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 89,00
+VALOR DA TAXA:  	 R$ 8,90
+TOTAL DO PEDIDO:	 R$ 97,90
+=====================
+
+=====================
+Pedido nº 41 - 01/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 2 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 7 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Sanduíche  com 2 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+04 - Sanduíche  com 4 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+05 - Sanduíche  com 4 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 97,50
+VALOR DA TAXA:  	 R$ 9,75
+TOTAL DO PEDIDO:	 R$ 107,25
+=====================
+
+=====================
+Pedido nº 62 - 01/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 4 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 2 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho pequeno com 7 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+04 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+05 - Sanduíche  com 3 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 103,50
+VALOR DA TAXA:  	 R$ 10,35
+TOTAL DO PEDIDO:	 R$ 113,85
+=====================
+
+=====================
+Pedido nº 11 - 04/03/2023
+01 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+02 - Sanduíche  com 3 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 29,00
+VALOR DA TAXA:  	 R$ 2,90
+TOTAL DO PEDIDO:	 R$ 31,90
+=====================
+
+=====================
+Pedido nº 12 - 04/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 5 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Sanduíche  com 2 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 43,50
+VALOR DA TAXA:  	 R$ 4,35
+TOTAL DO PEDIDO:	 R$ 47,85
+=====================
+
+=====================
+Pedido nº 84 - 04/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 3 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 0 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 65,50
+VALOR DA TAXA:  	 R$ 6,55
+TOTAL DO PEDIDO:	 R$ 72,05
+=====================
+
+=====================
+Pedido nº 96 - 05/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 1 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 7 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho médio com 0 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Sanduíche  com 1 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 93,50
+VALOR DA TAXA:  	 R$ 9,35
+TOTAL DO PEDIDO:	 R$ 102,85
+=====================
+
+=====================
+Pedido nº 7 - 07/03/2023
+01 - Pizza com queijo e calabresa tamanho pequeno com 6 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+02 - Sanduíche  com 2 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 38,00
+VALOR DA TAXA:  	 R$ 3,80
+TOTAL DO PEDIDO:	 R$ 41,80
+=====================
+
+=====================
+Pedido nº 79 - 07/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 1 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Sanduíche  com 1 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+03 - Sanduíche  com 4 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 59,50
+VALOR DA TAXA:  	 R$ 5,95
+TOTAL DO PEDIDO:	 R$ 65,45
+=====================
+
+=====================
+Pedido nº 29 - 09/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 3 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho grande com 7 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+03 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+04 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 87,00
+VALOR DA TAXA:  	 R$ 8,70
+TOTAL DO PEDIDO:	 R$ 95,70
+=====================
+
+=====================
+Pedido nº 87 - 11/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 7 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Sanduíche  com 0 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 40,50
+VALOR DA TAXA:  	 R$ 4,05
+TOTAL DO PEDIDO:	 R$ 44,55
+=====================
+
+=====================
+Pedido nº 97 - 11/03/2023
+01 - Pizza com queijo e calabresa tamanho médio com 0 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Pizza com queijo e calabresa tamanho médio com 5 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho médio com 6 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Sanduíche  com 4 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+05 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+06 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 123,00
+VALOR DA TAXA:  	 R$ 12,30
+TOTAL DO PEDIDO:	 R$ 135,30
+=====================
+
+=====================
+Pedido nº 27 - 12/03/2023
+01 - Sanduíche  com 4 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 16,00
+VALOR DA TAXA:  	 R$ 1,60
+TOTAL DO PEDIDO:	 R$ 17,60
+=====================
+
+=====================
+Pedido nº 71 - 12/03/2023
+01 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+02 - Sanduíche  com 3 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+03 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 42,00
+VALOR DA TAXA:  	 R$ 4,20
+TOTAL DO PEDIDO:	 R$ 46,20
+=====================
+
+=====================
+Pedido nº 39 - 15/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 1 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho grande com 4 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+03 - Pizza com queijo e calabresa tamanho médio com 4 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Pizza com queijo e calabresa tamanho médio com 4 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+05 - Sanduíche  com 3 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+06 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 137,00
+VALOR DA TAXA:  	 R$ 13,70
+TOTAL DO PEDIDO:	 R$ 150,70
+=====================
+
+=====================
+Pedido nº 51 - 15/03/2023
+01 - Sanduíche  com 3 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 16,00
+VALOR DA TAXA:  	 R$ 1,60
+TOTAL DO PEDIDO:	 R$ 17,60
+=====================
+
+=====================
+Pedido nº 57 - 15/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 5 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 4 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 65,50
+VALOR DA TAXA:  	 R$ 6,55
+TOTAL DO PEDIDO:	 R$ 72,05
+=====================
+
+=====================
+Pedido nº 66 - 16/03/2023
+01 - Pizza com queijo e calabresa tamanho médio com 5 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Sanduíche  com 2 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 41,00
+VALOR DA TAXA:  	 R$ 4,10
+TOTAL DO PEDIDO:	 R$ 45,10
+=====================
+
+=====================
+Pedido nº 54 - 18/03/2023
+01 - Sanduíche  com 0 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 13,00
+VALOR DA TAXA:  	 R$ 1,30
+TOTAL DO PEDIDO:	 R$ 14,30
+=====================
+
+=====================
+Pedido nº 9 - 21/03/2023
+01 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+02 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+03 - Sanduíche  com 2 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 39,00
+VALOR DA TAXA:  	 R$ 3,90
+TOTAL DO PEDIDO:	 R$ 42,90
+=====================
+
+=====================
+Pedido nº 68 - 21/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 2 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho pequeno com 7 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+03 - Sanduíche  com 0 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+04 - Sanduíche  com 0 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 75,50
+VALOR DA TAXA:  	 R$ 7,55
+TOTAL DO PEDIDO:	 R$ 83,05
+=====================
+
+=====================
+Pedido nº 90 - 21/03/2023
+01 - Sanduíche  com 1 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+02 - Sanduíche  com 1 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+03 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+04 - Sanduíche  com 3 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 55,00
+VALOR DA TAXA:  	 R$ 5,50
+TOTAL DO PEDIDO:	 R$ 60,50
+=====================
+
+=====================
+Pedido nº 21 - 22/03/2023
+01 - Pizza com queijo e calabresa tamanho pequeno com 0 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+02 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 35,00
+VALOR DA TAXA:  	 R$ 3,50
+TOTAL DO PEDIDO:	 R$ 38,50
+=====================
+
+=====================
+Pedido nº 52 - 22/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 6 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Sanduíche  com 3 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+03 - Sanduíche  com 3 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 56,50
+VALOR DA TAXA:  	 R$ 5,65
+TOTAL DO PEDIDO:	 R$ 62,15
+=====================
+
+=====================
+Pedido nº 55 - 22/03/2023
+01 - Pizza com queijo e calabresa tamanho médio com 5 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 38,00
+VALOR DA TAXA:  	 R$ 3,80
+TOTAL DO PEDIDO:	 R$ 41,80
+=====================
+
+=====================
+Pedido nº 26 - 23/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 5 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+03 - Sanduíche  com 0 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 53,50
+VALOR DA TAXA:  	 R$ 5,35
+TOTAL DO PEDIDO:	 R$ 58,85
+=====================
+
+=====================
+Pedido nº 25 - 25/03/2023
+01 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+02 - Sanduíche  com 2 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 29,00
+VALOR DA TAXA:  	 R$ 2,90
+TOTAL DO PEDIDO:	 R$ 31,90
+=====================
+
+=====================
+Pedido nº 83 - 25/03/2023
+01 - Pizza com queijo e calabresa tamanho médio com 5 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Pizza com queijo e calabresa tamanho pequeno com 3 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+
+VALOR DOS ITENS:	 R$ 47,00
+VALOR DA TAXA:  	 R$ 4,70
+TOTAL DO PEDIDO:	 R$ 51,70
+=====================
+
+=====================
+Pedido nº 40 - 26/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 2 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 2 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Sanduíche  com 0 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 65,50
+VALOR DA TAXA:  	 R$ 6,55
+TOTAL DO PEDIDO:	 R$ 72,05
+=====================
+
+=====================
+Pedido nº 6 - 27/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 6 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho pequeno com 0 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+
+VALOR DOS ITENS:	 R$ 49,50
+VALOR DA TAXA:  	 R$ 4,95
+TOTAL DO PEDIDO:	 R$ 54,45
+=====================
+
+=====================
+Pedido nº 100 - 30/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 5 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 2 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho pequeno com 3 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+04 - Pizza com queijo e calabresa tamanho pequeno com 7 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+05 - Sanduíche  com 0 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+06 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 125,50
+VALOR DA TAXA:  	 R$ 12,55
+TOTAL DO PEDIDO:	 R$ 138,05
+=====================
+
+=====================
+Pedido nº 20 - 31/03/2023
+01 - Pizza com queijo e calabresa tamanho grande com 5 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 1 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Pizza com queijo e calabresa tamanho médio com 6 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Pizza com queijo e calabresa tamanho pequeno com 7 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+05 - Pizza com queijo e calabresa tamanho pequeno com 2 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+06 - Sanduíche  com 3 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 134,50
+VALOR DA TAXA:  	 R$ 13,45
+TOTAL DO PEDIDO:	 R$ 147,95
+=====================
+
+=====================
+Pedido nº 5 - 01/04/2023
+01 - Pizza com queijo e calabresa tamanho pequeno com 4 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+02 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 35,00
+VALOR DA TAXA:  	 R$ 3,50
+TOTAL DO PEDIDO:	 R$ 38,50
+=====================
+
+=====================
+Pedido nº 18 - 01/04/2023
+01 - Pizza com queijo e calabresa tamanho grande com 6 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho grande com 0 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+03 - Pizza com queijo e calabresa tamanho médio com 5 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Pizza com queijo e calabresa tamanho pequeno com 5 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+05 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 118,00
+VALOR DA TAXA:  	 R$ 11,80
+TOTAL DO PEDIDO:	 R$ 129,80
+=====================
+
+=====================
+Pedido nº 80 - 04/04/2023
+01 - Sanduíche  com 1 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+02 - Sanduíche  com 3 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 29,00
+VALOR DA TAXA:  	 R$ 2,90
+TOTAL DO PEDIDO:	 R$ 31,90
+=====================
+
+=====================
+Pedido nº 45 - 06/04/2023
+01 - Pizza com queijo e calabresa tamanho médio com 7 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Pizza com queijo e calabresa tamanho pequeno com 1 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+03 - Pizza com queijo e calabresa tamanho pequeno com 4 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+
+VALOR DOS ITENS:	 R$ 69,00
+VALOR DA TAXA:  	 R$ 6,90
+TOTAL DO PEDIDO:	 R$ 75,90
+=====================
+
+=====================
+Pedido nº 48 - 06/04/2023
+01 - Pizza com queijo e calabresa tamanho grande com 7 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Sanduíche  com 0 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+03 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+04 - Sanduíche  com 3 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+05 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+06 - Sanduíche  com 2 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 98,50
+VALOR DA TAXA:  	 R$ 9,85
+TOTAL DO PEDIDO:	 R$ 108,35
+=====================
+
+=====================
+Pedido nº 17 - 07/04/2023
+01 - Pizza com queijo e calabresa tamanho grande com 3 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho grande com 2 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+
+VALOR DOS ITENS:	 R$ 55,00
+VALOR DA TAXA:  	 R$ 5,50
+TOTAL DO PEDIDO:	 R$ 60,50
+=====================
+
+=====================
+Pedido nº 92 - 07/04/2023
+01 - Pizza com queijo e calabresa tamanho pequeno com 7 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+02 - Pizza com queijo e calabresa tamanho pequeno com 2 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+03 - Sanduíche  com 0 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 57,00
+VALOR DA TAXA:  	 R$ 5,70
+TOTAL DO PEDIDO:	 R$ 62,70
+=====================
+
+=====================
+Pedido nº 98 - 07/04/2023
+01 - Pizza com queijo e calabresa tamanho médio com 1 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Sanduíche  com 4 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 38,00
+VALOR DA TAXA:  	 R$ 3,80
+TOTAL DO PEDIDO:	 R$ 41,80
+=====================
+
+=====================
+Pedido nº 44 - 08/04/2023
+01 - Pizza com queijo e calabresa tamanho grande com 2 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho grande com 1 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+03 - Pizza com queijo e calabresa tamanho grande com 4 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+04 - Pizza com queijo e calabresa tamanho pequeno com 4 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+05 - Sanduíche  com 4 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 117,50
+VALOR DA TAXA:  	 R$ 11,75
+TOTAL DO PEDIDO:	 R$ 129,25
+=====================
+
+=====================
+Pedido nº 61 - 08/04/2023
+01 - Pizza com queijo e calabresa tamanho médio com 2 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Pizza com queijo e calabresa tamanho pequeno com 4 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+
+VALOR DOS ITENS:	 R$ 47,00
+VALOR DA TAXA:  	 R$ 4,70
+TOTAL DO PEDIDO:	 R$ 51,70
+=====================
+
+=====================
+Pedido nº 70 - 10/04/2023
+01 - Pizza com queijo e calabresa tamanho grande com 5 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho grande com 6 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+03 - Pizza com queijo e calabresa tamanho médio com 1 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Pizza com queijo e calabresa tamanho médio com 1 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+05 - Pizza com queijo e calabresa tamanho pequeno com 0 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+06 - Sanduíche  com 1 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 140,00
+VALOR DA TAXA:  	 R$ 14,00
+TOTAL DO PEDIDO:	 R$ 154,00
+=====================
+
+=====================
+Pedido nº 78 - 11/04/2023
+01 - Pizza com queijo e calabresa tamanho grande com 7 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho pequeno com 1 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+03 - Pizza com queijo e calabresa tamanho pequeno com 3 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+04 - Pizza com queijo e calabresa tamanho pequeno com 1 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+05 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 109,50
+VALOR DA TAXA:  	 R$ 10,95
+TOTAL DO PEDIDO:	 R$ 120,45
+=====================
+
+=====================
+Pedido nº 72 - 12/04/2023
+01 - Pizza com queijo e calabresa tamanho médio com 1 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Pizza com queijo e calabresa tamanho pequeno com 3 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+03 - Pizza com queijo e calabresa tamanho pequeno com 1 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+04 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+05 - Sanduíche  com 1 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+06 - Sanduíche  com 1 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 117,00
+VALOR DA TAXA:  	 R$ 11,70
+TOTAL DO PEDIDO:	 R$ 128,70
+=====================
+
+=====================
+Pedido nº 19 - 14/04/2023
+01 - Pizza com queijo e calabresa tamanho médio com 3 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Sanduíche  com 3 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+03 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 57,00
+VALOR DA TAXA:  	 R$ 5,70
+TOTAL DO PEDIDO:	 R$ 62,70
+=====================
+
+=====================
+Pedido nº 22 - 14/04/2023
+01 - Pizza com queijo e calabresa tamanho médio com 1 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 38,00
+VALOR DA TAXA:  	 R$ 3,80
+TOTAL DO PEDIDO:	 R$ 41,80
+=====================
+
+=====================
+Pedido nº 74 - 20/04/2023
+01 - Pizza com queijo e calabresa tamanho médio com 4 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+02 - Pizza com queijo e calabresa tamanho médio com 5 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+03 - Sanduíche  com 2 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+04 - Sanduíche  com 3 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+05 - Sanduíche  com 2 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+06 - Sanduíche  com 3 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 108,00
+VALOR DA TAXA:  	 R$ 10,80
+TOTAL DO PEDIDO:	 R$ 118,80
+=====================
+
+=====================
+Pedido nº 33 - 21/04/2023
+01 - Pizza com queijo e calabresa tamanho grande com 4 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho grande com 6 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+03 - Pizza com queijo e calabresa tamanho médio com 3 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+04 - Pizza com queijo e calabresa tamanho médio com 5 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+05 - Pizza com queijo e calabresa tamanho pequeno com 6 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+
+VALOR DOS ITENS:	 R$ 127,00
+VALOR DA TAXA:  	 R$ 12,70
+TOTAL DO PEDIDO:	 R$ 139,70
+=====================
+
+=====================
+Pedido nº 15 - 27/04/2023
+01 - Pizza com queijo e calabresa tamanho pequeno com 4 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+02 - Pizza com queijo e calabresa tamanho pequeno com 2 adicionais. R$ 22.00
+TOTAL A PAGAR: R$ 22
+03 - Sanduíche  com 5 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+04 - Sanduíche  com 5 adicionais. R$ 13.00
+TOTAL A PAGAR: R$ 13
+
+VALOR DOS ITENS:	 R$ 73,00
+VALOR DA TAXA:  	 R$ 7,30
+TOTAL DO PEDIDO:	 R$ 80,30
+=====================
+
+=====================
+Pedido nº 99 - 27/04/2023
+01 - Pizza com queijo e calabresa tamanho grande com 5 adicionais. R$ 27.50
+TOTAL A PAGAR: R$ 27,5
+02 - Pizza com queijo e calabresa tamanho médio com 0 adicionais. R$ 25.00
+TOTAL A PAGAR: R$ 25
+
+VALOR DOS ITENS:	 R$ 52,50
+VALOR DA TAXA:  	 R$ 5,25
+TOTAL DO PEDIDO:	 R$ 57,75
+=====================
+
+=====================
+Pedido nº 95 - 30/04/2023
+01 - Sanduíche  com 1 adicionais. R$ 13.00
+	 Combo: R$ 3.00
+TOTAL A PAGAR: R$ 16
+
+VALOR DOS ITENS:	 R$ 16,00
+VALOR DA TAXA:  	 R$ 1,60
+TOTAL DO PEDIDO:	 R$ 17,60
+=====================
+
